@@ -1,6 +1,6 @@
 mode = "dark"
 
-accent = "#C00500"
+accent = "#D14B44"
 selection = "#7A0F08"
 muted = "#4A4A4A"
 
@@ -19,14 +19,14 @@ hyprland_inactive_border = "rgba(4A4A4Aaa)"
 active_border_color = "#C00500"
 active_tab_background = "#7A0F08"
 
-red = "#C00500"
+red = "#D14B44"
 yellow = "#FFB000"
 green = "#5FCB78"
 cyan = "#67D4D8"
 blue = "#6EA8FE"
 magenta = "#FF5C8A"
 
-bright_red = "#E03832"
+bright_red = "#E56B65"
 bright_yellow = "#FFD166"
 bright_green = "#82E39A"
 bright_cyan = "#8CE6E9"
