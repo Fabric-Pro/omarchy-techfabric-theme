@@ -1,6 +1,6 @@
 mode = "dark"
 
-accent = "#EB0600"
+accent = "#C00500"
 selection = "#7A0F08"
 muted = "#4A4A4A"
 
@@ -14,19 +14,19 @@ dark_foreground = "#999999"
 light_foreground = "#E3E3E3"
 bright_foreground = "#FFFFFF"
 
-hyprland_active_border = "rgba(EB0600ee) rgba(B30000ee)"
+hyprland_active_border = "rgba(C00500ee) rgba(8F0300ee)"
 hyprland_inactive_border = "rgba(4A4A4Aaa)"
-active_border_color = "#EB0600"
+active_border_color = "#C00500"
 active_tab_background = "#7A0F08"
 
-red = "#EB0600"
+red = "#C00500"
 yellow = "#FFB000"
 green = "#5FCB78"
 cyan = "#67D4D8"
 blue = "#6EA8FE"
 magenta = "#FF5C8A"
 
-bright_red = "#FF4742"
+bright_red = "#E03832"
 bright_yellow = "#FFD166"
 bright_green = "#82E39A"
 bright_cyan = "#8CE6E9"
